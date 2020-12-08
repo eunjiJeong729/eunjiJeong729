@@ -1,6 +1,5 @@
 # Jeong Eunji👋
-[![HitCount](http://hits.dwyl.com/eunjiJeong729/ eunjiJeong729.svg)](http://hits.dwyl.com/eunjiJeong729/ eunjiJeong729)
-<br>
+[![HitCount](http://hits.dwyl.com/eunjiJeong729/eunjiJeong729.svg)](http://hits.dwyl.com/eunjiJeong729/eunjiJeong729)<br>
 ✉️ eunjijia95@gmail.com
 
 안녕하세요😄 제 git에 와주셔서 감사합니다.<br>
