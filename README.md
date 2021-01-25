@@ -12,11 +12,11 @@
 
 📔 언어
 * [Python, C언어] - 주 개발 Python 사용
-* [Mysql, Oracle] - 데이터베이스 모델링, 생성, 관리
+* [Mysql, Oracle] - 데이터베이스 모델링, 생성, 관리, P/L SQL
 * [R] - 데이터프레임 가공 및 연산
  
 💻 기술
-* [Data Engineering] - 데이터 적재(리눅스 서버 사용), 전처리, 가공
+* [Data Engineering] - 데이터 적재(리눅스 Shell 사용), 전처리, 가공
 * [Data analysis] - 데이터 및 텍스트 마이닝 경험
 * [Probability and statistics] - 통계 모델 및 분석
 * [AI] - 머신러닝, 이미지 딥러닝 구현
