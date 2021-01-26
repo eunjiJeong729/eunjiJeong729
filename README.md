@@ -12,7 +12,7 @@
 
 📔 언어
 * [Python, C언어] - 주 개발 Python 사용
-* [Mysql, Oracle] - 데이터베이스 모델링, 생성, 관리, P/L SQL
+* [Mysql, Oracle] - 데이터베이스 모델링, 생성, 관리, PL/SQL
 * [R] - 데이터프레임 가공 및 연산
  
 💻 기술
