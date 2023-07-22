@@ -11,8 +11,9 @@
 ### Tech
 
 📔 언어
-* [Python, C언어, ProC] - 주 개발 Python 사용
-* [Mysql, Oracle, Tera, Vertica] - 데이터베이스 모델링, 생성, 관리, PL/SQL
+* [Python, ProC] - Python(데이터 분석 모델링 구현), ProC(화면용 서비스 프로그램 개발) 사용
+* [JavaScript] - 퍼블리싱, 화면 개발 (WebSquare 사용)
+* [Mysql, Oracle, Tera, Vertica] - 데이터베이스 모델링, 생성, 관리, PL/SQL, 튜닝
 * [R] - 데이터프레임 가공 및 연산
  
 💻 기술
@@ -20,12 +21,14 @@
 * [Data analysis] - 데이터 및 텍스트 마이닝 경험
 * [Probability and statistics] - 통계 모델 및 분석
 * [AI] - 머신러닝, 이미지 딥러닝 구현
-
+* [Data visualization] - 시각화용 데이터 원본 생성 및 대시보드 구현(태블로 Tableau 사용)
+* [front-end] - 화면 퍼블리싱 및 화면 로직 구현
+* [back-end] - 배치 작업 구현 및 운영(shell script 사용), 화면 연동 서비스 프로그램 개발(ProC 사용)
 
 ### Experience 🏢
 
 ```sh
-$ 2022.01 ~    신한은행 정보개발부 BI Cell 선임
+$ 2022.01 ~    신한은행 정보개발부 BI Cell 선임(행내 플랫폼 개발 및 운영)
 $ 2021.01 ~ 12 에프앤가이드 투자플랫폼실 DE
 $ 2020.09 ~ 12 에프앤가이드 펀드평가팀 DE
 $ 2020.07 ~ 08 스페이스 워크 DE 인턴
