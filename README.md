@@ -23,7 +23,7 @@
 * [AI] - 머신러닝, 이미지 딥러닝 구현
 * [Data visualization] - 시각화용 데이터 원본 생성 및 대시보드 구현(태블로 Tableau 사용)
 * [front-end] - 화면 퍼블리싱 및 화면 로직 구현
-* [back-end] - 배치 작업 구현 및 운영(shell script 사용), 화면 연동 서비스 프로그램 개발(ProC 사용)
+* [back-end] - 배치 작업 구현 및 운영(shell script 사용), 화면 연동 서비스 프로그램 개발(ProC 사용)
 
 ### Experience 🏢
 
