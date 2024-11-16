@@ -14,7 +14,7 @@
 📔 언어
 * [Python, ProC] - Python(데이터 분석 모델링 구현), ProC(화면용 서비스 프로그램 개발) 사용
 * [JavaScript] - 퍼블리싱, 화면 개발 (WebSquare 사용)
-* [Mysql, Oracle, Tera, Vertica] - 데이터베이스 모델링, 생성, 관리, PL/SQL, 튜닝
+* [Mysql, Oracle, Teradata, Vertica] - 데이터 적재, 생성, 관리, PL/SQL, 튜닝
 * [R] - 데이터프레임 가공 및 연산
  
 💻 기술
