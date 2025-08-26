@@ -1,5 +1,4 @@
 # Jeong Eunji👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FeunjiJeong729&count_bg=%23E495F6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 ✉️ eunjijia95@gmail.com
 
 안녕하세요😄 제 git에 와주셔서 감사합니다.<br>
@@ -7,14 +6,15 @@
   - 데이터 사이언스를 전공했습니다.
   - 스페이스 워크(인공지능·빅데이터 기반 프롭테크 회사)와 에프앤가이드에서 데이터 엔지니어로 근무했습니다.
   - 신한은행에서 마케팅 및 직원 실적 평가 플랫폼 구축/운영 업무를 담당하며 금융 풀스택 개발자로 근무했습니다.
-  - 현재는 신한은행에서 신상품 관련 DW 개발, 전행적 데이터 마트 생성 및 운영 업무를 담당하고 있습니다.
+  - 신한은행에서 신상품 관련 DW 개발, 전행적 데이터 마트 생성 및 운영 업무를 담당했습니다.
+  - 현재는 Toss Core에서 전사 DW 표준 마트 설계/개발/운영을 담당하며 데이터 애널리틱스 앤지니어로 근무하고 있습니다.
 
 ### Tech
 
 📔 언어
-* [Python, ProC] - Python(데이터 분석 모델링 구현), ProC(화면용 서비스 프로그램 개발) 사용
+* [Python, ProC] - Python(pyspark, airflow, 데이터 분석 모델링 구현), ProC(화면용 서비스 프로그램 개발) 사용
 * [JavaScript] - 퍼블리싱, 화면 개발 (WebSquare 사용)
-* [Mysql, Oracle, Teradata, Vertica] - 데이터 적재, 생성, 관리, PL/SQL, 튜닝
+* [hadoop, Impala, Spark, Mysql, Oracle, Teradata, Vertica] - 데이터 적재, 생성, 관리, PL/SQL, 튜닝
 * [R] - 데이터프레임 가공 및 연산
  
 💻 기술
@@ -24,12 +24,13 @@
 * [AI] - 머신러닝, 이미지 딥러닝 구현
 * [Data visualization] - 시각화용 데이터 원본 생성 및 대시보드 구현(태블로 Tableau 사용)
 * [front-end] - 화면 퍼블리싱 및 화면 로직 구현
-* [back-end] - 배치 작업 구현 및 운영(shell script 사용), 화면 연동 서비스 프로그램 개발(ProC 사용)
+* [back-end] - 배치 작업 구현 및 운영(pyspark, shell script 사용), 화면 연동 서비스 프로그램 개발(ProC 사용)
 
 ### Experience 🏢
 
 ```sh
-$ 2024.06 ~    신한은행 정보서비스개발부 BI Cell 선임(신상품 관련 DW 개발, 전행적 데이터 마트 생성 및 운영)
+$ 2025.08 ~       토스(코어) Data Mart Platform Team Data Analytics Engineer (전사 DW 표준 마트 설계/개발/운영)
+$ 2024.06 ~ 25.07 신한은행 정보서비스개발부 BI Cell 선임(신상품 관련 DW 개발, 전행적 데이터 마트 생성 및 운영)
 $ 2022.01 ~ 24.06 신한은행 정보개발부 BI Cell 선임(행내 플랫폼 개발 및 운영)
 $ 2021.01 ~ 12 에프앤가이드 투자플랫폼실 DE
 $ 2020.09 ~ 12 에프앤가이드 펀드평가팀 DE
