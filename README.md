@@ -65,5 +65,3 @@ $ 2019.11 사회조사분석사 2급
 $ 2020.07 한국정보과학회 우수논문상
           (의료 조언을 위한 질문 의도 인식:학습 데이터 구축 및 의도 분류)
 ```
-
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=eunjiJeong729&show_icons=true)
