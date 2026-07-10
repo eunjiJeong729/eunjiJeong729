@@ -29,7 +29,7 @@
 ### Experience 🏢
 
 ```sh
-$ 2025.08 ~       토스(코어) Data Mart Platform Team Data Analytics Engineer (전사 DW 표준 마트 설계/개발/운영)
+$ 2025.08 ~ 26.03 토스(코어) Data Mart Platform Team Data Analytics Engineer (전사 DW 표준 마트 설계/개발/운영)
 $ 2024.06 ~ 25.07 신한은행 정보서비스개발부 BI Cell 선임(신상품 관련 DW 개발, 전행적 데이터 마트 생성 및 운영)
 $ 2022.01 ~ 24.06 신한은행 정보개발부 BI Cell 선임(행내 플랫폼 개발 및 운영)
 $ 2021.01 ~ 12 에프앤가이드 투자플랫폼실 DE
@@ -52,11 +52,11 @@ $ 2011.03 ~ 14.02 경복비즈니스고등학교 IT비즈니스과 졸업
 ### Certificates ♥️
 
 ```sh
+$ 2026.07 빅데이터분석기사
 $ 2023.07 SQLD(SQL 개발자)
 $ 2021.02 투자자산운용사
 $ 2020.11 정보처리기사
 $ 2020.07 ADsP(데이터분석 준전문가)
-$ 2020.03 TOEIC-Speaking Test(lv.6)
 $ 2019.11 사회조사분석사 2급
 ```
 
